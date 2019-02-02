@@ -1,0 +1,41 @@
+#box {
+  display: block;
+  border: none;
+}
+
+#madeIn {
+  display: inline-block;
+  font-size: 7px;
+  width: 380px;
+}
+
+#nickname {
+  display: inline-block;
+  font-size: 7px;
+}
+
+table {
+  border: 1px solid black;
+  height: 300px;
+}
+
+table .btn {
+  border: 1px solid black;
+  width: 100px;
+  height: 70px;
+  font-size: 24px;
+  background-color: white;
+  outline: none;
+}
+
+#display {
+  border: 2px solid #4774d9;
+  width: 392px;
+  height: 70px;
+  text-align: right;
+  font-size: 35px;
+  padding-right: 15px;
+}
+#btn_0 {
+  width: 204px;
+}
